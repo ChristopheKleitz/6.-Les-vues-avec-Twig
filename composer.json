@@ -1,0 +1,12 @@
+{
+    "name": "chris/vues_twig",
+    "authors": [
+        {
+            "name": "ChristopheKleitz",
+            "email": "ckleitz67@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
